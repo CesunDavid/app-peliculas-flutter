@@ -1,16 +1,28 @@
-# proyecto_desarrollo_software
+#  App de Películas Flutter
 
-A new Flutter project.
+Aplicación desarrollada en Flutter que permite explorar películas, buscar títulos y ver detalles usando la API de TMDB.
 
-## Getting Started
+##  Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Lista de películas populares
+- Búsqueda en tiempo real
+- Pantalla de detalle
+- Splash Screen
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologías
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- API TMDB
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Cómo ejecutar
+
+1. Clonar repositorio
+2. Ejecutar:
+   flutter pub get
+3. Ejecutar app:
+   flutter run
+
+##  Notas
+
+Se requiere conexión a internet para consumir la API.
